@@ -2,7 +2,7 @@
 
 Look-and-say sequence
 
-from (https://www.youtube.com/watch?v=yiCpfd-kz3g)[TDD ça ralentit ?]
+from [TDD ça ralentit ?](https://www.youtube.com/watch?v=yiCpfd-kz3g "youtube video in french")
 
 ### First impression on TDD
 
